@@ -51,7 +51,7 @@ The program calculates the total credit hours and grade points, then displays th
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/CodeAlpha_CGPACalculator.git
+git clone https://github.com/abdullahahmedshehatah-cmd/CodeAlpha_CGPACalculator.git
 ```
 
 ### 2. Open the project folder
